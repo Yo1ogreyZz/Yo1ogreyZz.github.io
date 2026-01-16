@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Technical Learning & Job Recruitment System (Zhonghang HR)"
+excerpt: "Vue.js + Django + MySQL recruitment platform with LLM-powered personalized career analysis and recommendations."
 collection: portfolio
+date: 2024-06-01
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Role: Member (2024.06–2024.07)
+
+- Clarified functional requirements (user/enterprise display, intelligent recommendation) and introduced an LLM-based module for personalized career analysis.
+- Built interactive pages with Vue.js (registration/login/information management) and CSS frameworks.
+- Developed Django APIs for user/job data and configured MySQL on cloud servers.
+- Performed testing and release (SonarQube + unit tests), deployed backend services, and maintained/optimized based on performance monitoring and user feedback.

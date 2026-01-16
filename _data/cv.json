@@ -1,152 +1,148 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zhang Jingxuan",
+    "email": "e1538240@u.nus.edu",
+    "phone": "+65 9610-2853",
+    "website": "https://yo1ogreyzz.github.io",
+    "summary": "M.Sc. student in AI for Science (Physics) at the National University of Singapore; B.Eng. in Software Engineering at Beihang University.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "334 Pasir Panjang Road, #01-14 Whitehaven",
+      "postalCode": "118659",
+      "city": "Singapore",
+      "countryCode": "SG",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Yo1ogreyZz",
+        "url": "https://github.com/Yo1ogreyZz"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Hangzhou Shifang Technology Co., Ltd.",
+      "position": "Algorithm Intern",
+      "startDate": "2024-07",
+      "endDate": "2024-09",
+      "summary": "Multimodal nutrition model evaluation and dataset construction.",
+      "highlights": [
+        "Developed data annotation tools and built Q&A datasets using multimodal large models.",
+        "Assisted testing and tuning of a multimodal nutrition model; submitted NutriVLM to ICASSP 2025 as first author."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "National University of Singapore",
+      "area": "M.Sc. in AI for Science (Physics)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025-08",
+      "endDate": "2025.08–Now",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Beihang University (School of Software)",
+      "area": "B.Eng. in Software Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020-09",
+      "endDate": "2020.09–2025.07",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "Java", "C", "C++", "MATLAB", "MySQL", "HTML/CSS"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["AutoCAD", "LaTeX", "Photoshop"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 6.5 (L 6.0)"
+    },
+    {
+      "language": "French",
+      "fluency": "B2"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "From Environmental Perception to Intelligent Battery Management: A Novel Real-Time Fault Early Warning Method for Onboard Power Batteries in a Cyber-Physical System",
+      "publisher": "Journal of Electrical Engineering & Technology",
+      "releaseDate": "2025-11-01",
+      "website": "",
+      "summary": "Real-time fault early warning for onboard power batteries in a cyber-physical system."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "NutrientHub Multimodal Nutrition Analysis Q&A Platform",
+      "publisher": "China National Copyright Administration (Software Copyright Registration)",
+      "releaseDate": "2025-04-01",
+      "website": "",
+      "summary": "Software copyright registration: 2025SR058668."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Digital Twin Manufacturing Technology for Intelligent Connected Vehicle Accident Data Recording",
+      "publisher": "Manufacturing Automation",
+      "releaseDate": "2022-11-01",
+      "website": "",
+      "summary": "Digital twin architecture and system for intelligent connected vehicle accident data recording."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Digital Technology Engineer Training Program",
+      "institution": "Hangzhou High-tech Zone",
+      "date": "2024-07-01",
+      "role": "Teaching Assistant",
+      "description": "Assisted training on AI applications (image/speech recognition); maintained lab environments and supported learners."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "National Youth University Science Camp (Beihang Sub-camp)",
+      "institution": "Beihang University",
+      "date": "2023-07-01",
+      "role": "Tutor",
+      "description": "Led participants in academic activities and innovation practices; documented activities for official channels."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Understanding Criticality and Emergent Complexity via Graph Neural Networks (GNNs)",
       "category": "portfolio",
-      "date": "",
+      "date": "2025-08-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Pipeline from micro-level rules (e.g., ECA) to graph datasets; interpretable GNNs for phase-boundary prediction."
+    },
+    {
+      "name": "Technical Learning & Job Recruitment System (Zhonghang HR)",
+      "category": "portfolio",
+      "date": "2024-06-01",
+      "url": "",
+      "description": "Vue.js frontend, Django APIs, MySQL on cloud servers; LLM-based personalized career analysis and recommendation."
+    },
+    {
+      "name": "Pick your Exclusive 2121 Image (WeChat mini-program)",
+      "category": "portfolio",
+      "date": "2022-07-01",
+      "url": "",
+      "description": "WeChat mini-program for creating and sharing personalized profile photos; Canvas-based real-time editing."
+    },
+    {
+      "name": "Digital Twin ADR System for Intelligent Connected Vehicles",
+      "category": "portfolio",
+      "date": "2021-09-01",
+      "url": "",
+      "description": "Digital twin architecture and Django/Vue.js implementation for accident data recording, storage, and analysis."
     }
   ]
 }

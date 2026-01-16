@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Zhang Jingxuan:
+  name        : "Zhang Jingxuan"
+  uri         : "https://yo1ogreyzz.github.io"
+  email       : "e1538240@u.nus.edu"
+  bio         : "M.Sc. student in AI for Science (Physics) at NUS; B.Eng. in Software Engineering at Beihang University."
+  avatar      : "profile.png"
+  github      : "Yo1ogreyZz"
