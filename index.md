@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a master student at ai4science in National University of Singapore.
 
 ## Research Interests
 
