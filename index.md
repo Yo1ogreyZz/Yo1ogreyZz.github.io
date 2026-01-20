@@ -41,5 +41,3 @@ I‘m currently seeking PhD or Research Assistant positions in machine learning 
   - Developed a question-type–aware evaluation framework and conducted controlled experiments to reveal model capacity vs. grounding trade-offs and reasoning failure modes.
   
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
