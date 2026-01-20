@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a master student in AI for Science at the National University of Singapore, Faculty of Science (Department of Physics). I earned my B.Eng. in Software Engineering from Beihang University. My current interests focus on AI for science, graph neural networks, and digital twin applications.
+I am a Master’s student in AI for Science at the National University of Singapore, with a background in Software Engineering. My academic training focuses on machine learning and data science, particularly representation learning for structured and temporal data, graph neural networks, and LLM-centered data systems such as retrieval-augmented generation and evaluation frameworks. My previous work emphasizes data construction, model comparison, and system-level analysis, with the goal of understanding why models succeed or fail across different data regimes and task settings.
+
+I am currently seeking PhD or Research Assistant positions in machine learning and data science, where I aim to pursue methodological research with an emphasis on rigor, interpretability, and real-world relevance. I would be glad to discuss potential opportunities if my background aligns with your research interests.
 
 ## Education Background
 
