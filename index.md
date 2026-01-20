@@ -9,7 +9,7 @@ I am a master student in AI for Science at the National University of Singapore,
 ## Education Background
 
 - **Beihang University** (School of Software), Bachelor of Engineering in Software Engineering, 2020.09-2025.07
-- **National University of Singapore** (Faculty of Science, Department of Physics), Master of Science in AI for Science, 2025.08-Now
+- **National University of Singapore** (Faculty of Science, Department of Physics), Master of Science in AI for Science, 2025.08-Present
 
 ## Research & Competition
 
@@ -25,7 +25,7 @@ I am a master student in AI for Science at the National University of Singapore,
 - **The Interdisciplinary Contest in Modeling (ICM) Problem F** — Leader, 2021.01  
   - Collected and cleaned 3,000+ data points with Python and conducted statistical analysis, regression, and grey prediction modeling.  
   - Delivered recommendations on higher education system sustainability and received the Successful Participant Award.
-- **Understanding Criticality and Emergent Complexity via Graph Neural Networks (GNNs)** — Member, 2025.08-Now  
+- **Understanding Criticality and Emergent Complexity via Graph Neural Networks (GNNs)** — Member, 2025.08-Present  
   - Built a unified pipeline mapping cellular automata rules to graph datasets with diagnostics.  
   - Trained interpretable GNNs with Hamming-distance and spectral/FFT baselines for critical behavior prediction.
 
