@@ -13,45 +13,31 @@ I am a master student in AI for Science at the National University of Singapore,
 
 ## Research & Competition
 
-- **Technical Learning and Job Recruitment System of Zhonghang HR** — Member, 2024.06-2024.07  
-  - Defined functional requirements for user/enterprise display and intelligent recommendation, introducing an LLM-based career analysis module.  
-  - Built Vue.js interfaces and Django APIs with a MySQL backend on Huawei Cloud; performed testing and deployment with SonarQube and TGit.
-- **Pick your Exclusive 2121 Image** — Leader, 2022.07-2022.08  
-  - Designed low/high-fidelity prototypes in Figma and implemented a WeChat mini-program with WXSS/WXML and Canvas-based editing.  
-  - Developed Node.js/Express APIs on Alibaba Cloud ECS with MySQL storage, plus Jest unit tests and production deployment.
-- **Digital Twin Manufacturing Technology for Intelligent Connected Vehicle Accident Data Recording (ADR)** — Member, 2021.09-2022.01  
-  - Designed a digital twin architecture for accident data recording; implemented Django/Vue modules for data capture, storage, and transmission.  
-  - Integrated hardware/software modules and validated functionality through unit and integration testing.
-- **The Interdisciplinary Contest in Modeling (ICM) Problem F** — Leader, 2021.01  
-  - Collected and cleaned 3,000+ data points with Python and conducted statistical analysis, regression, and grey prediction modeling.  
-  - Delivered recommendations on higher education system sustainability and received the Successful Participant Award.
-- **Understanding Criticality and Emergent Complexity via Graph Neural Networks (GNNs)** — Member, 2025.08-Present  
-  - Built a unified pipeline mapping cellular automata rules to graph datasets with diagnostics.  
-  - Trained interpretable GNNs with Hamming-distance and spectral/FFT baselines for critical behavior prediction.
+- **Digital Twin Based Intelligent Networked Vehicle Event Data Recorder Manufacture** — State Key Laboratory of Software Development Environment, Beihang University, 2021.09-2022.01  
+  - Co-authored a study on digital twin–based manufacturing for intelligent vehicle event data recorders (EDR/DSSAD).
+  - Designed a system-level architecture integrating sensor data, CAN networks, and digital twin models for accident data recording and reconstruction.
+  - Evaluated vehicle and autonomous driving data pipelines to support safety analysis, regulatory compliance, and intelligent manufacturing workflows.
 
-## Internship Experience
+- **Real-Time Battery Fault Early Warning Using CPS-Integrated LSTM/BPNN for Electric Vehicle Power Batteries** — Beihang University, 2023.8-2024.9  
+  - Developed a cyber-physical system–based real-time fault early warning framework for onboard EV power batteries under varying environmental conditions.
+  - Applied LSTM and BPNN to predict battery temperature dynamics and enable a self-updating adaptive battery model.
+  - Validated on real-world electric bus data, achieving 57s earlier fault warnings, 11.1% lower misdiagnosis, and 8.4% reduced diagnostic failures.
 
-- **Algorithm Department, Hangzhou Shifang Technology Co., Ltd.** — Algorithm Intern, 2024.07-2024.09  
-  - Developed data annotation tools and generated multimodal Q&A datasets with ChatGPT-4o and Qwen1.5 plus.  
-  - Assisted tuning of a multimodal nutrition model and submitted the first-author paper “NutriVLM” to ICASSP2025.
-- **Digital Technology Engineer Training Program in Hangzhou High-tech Zone** — Teaching Assistant, 2024.07-2024.09  
-  - Supported training for 60+ employees on AI applications and provided Q&A support.  
-  - Maintained lab environments, configured virtual environments, and wrote experiment manuals.
-- **CASC and Beihang Sub-camp, 2023 National Youth University Science Camp** — Tutor, 2023.07  
-  - Led visiting delegations through expert talks, innovation practices, and lab visits; produced 10+ WeChat articles.
-- **National Alpine Skiing Centre, Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games** — YAS PEM Assistant, 2022.01-2022.04  
-  - Managed cable car passenger flow, assisted disabled athletes, and served 200,000+ visitors.  
-  - Recognized as a “Volunteer Star” and “Outstanding Individual”.
+- **NutriVLM: Optimizing Multimodal Models for Comprehensive Nutritional Assessment** — Artificial Intelligence Innovation Center, Hangzhou International Innovation Institution of Beihang University, 2024.07-2024.10  
+  - Proposed NutriVLM, a task-specific evaluation framework for multimodal food understanding, covering food type, weight, and nutritional estimation.
+  - Constructed a high-quality annotated real-food image dataset (5,000+ images, 10 categories) and benchmarked state-of-the-art vision–language models.
+  - Designed a multi-round prompt optimization strategy, achieving consistent improvements in overall nutritional assessment accuracy.
+  
+- **GNNs for Understanding Criticality and Emergent Complexity in Cellular Automata** — Department of Physics, National University of Singapore, 2025.08-Present  
+  - Reformulated cellular automata dynamics as graph-structured data, enabling the use of graph neural networks (GNNs) instead of brute-force simulation.
+  - Designed and implemented multiple graph constructions (e.g. state transition graphs and dependency graphs) and converted them into PyTorch Geometric datasets with consistent node and edge semantics.
+  - Built an automated pipeline to generate, validate, and serialize large graph datasets, supporting supervised learning with rule-level labels and handcrafted features.
 
-## Student Work
-
-- **Secretariat, Graduate Publicity Group, Beihang University** — Leader, 2022.09-2023.07  
-  - Managed reimbursements, designed promotional materials, and published 30+ articles with 200,000+ views.  
-  - Organized promotional activities reaching 80,000 participants and co-hosted a joint lecture event.
-- **Outreach Liaison Department, Zhaoyang Volunteer Teaching Association, Beihang University** — Leader, 2021.09-2022.07  
-  - Organized donation campaigns and volunteer teaching events benefiting 5,000 people across multiple regions.  
-  - Launched a university volunteer teaching forum and earned Outstanding Individual recognition.
-
+- **NUSKAKI: Retrieval-Augmented QA System** — Coursework, National University of Singapore, 2025.08-2025.11  
+  - Designed a modular RAG architecture separating knowledge construction, retrieval, generation, and evaluation, enabling reproducible comparison across lightweight local LLMs.
+  - Built a domain-specific semantic retrieval pipeline and analyzed retrieval quality as a system-level bottleneck affecting downstream reasoning.
+  - Developed a question-type–aware evaluation framework and conducted controlled experiments to reveal model capacity vs. grounding trade-offs and reasoning failure modes.
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
