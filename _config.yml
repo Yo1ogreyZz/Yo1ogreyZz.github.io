@@ -17,6 +17,9 @@ cv_link: assets/files/cv.pdf
 github_link: https://github.com/Yo1ogreyZz
 linkedin: https://sg.linkedin.com/in/jingxuan-zhang-7b0a5b380?trk=people-guest_people_search-card
 
+site.affiliation: National University of Singapore
+site.position: Singapore
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
